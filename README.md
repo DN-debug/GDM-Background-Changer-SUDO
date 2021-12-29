@@ -1,5 +1,5 @@
 
-# GDM-Background-Changer-DOAS
+# GDM-Background-Changer-SUDO
 
 Change your GDM background easily using GDM-Background-Changer. This version of GDM-Background-Changer or gbc uses SUDO for authentication. The user interaction is done
 using Zenity.
