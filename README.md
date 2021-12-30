@@ -14,8 +14,8 @@ Note: This is only for Arch-based systems.
 
 For Setup
 ```bash
-  git clone https://github.com/DN-debug/GDM-Background-Changer-SUDO.git gcb-sudo
-  cd gcb-sudo
+  git clone https://github.com/DN-debug/GDM-Background-Changer-SUDO.git gbc-sudo
+  cd gbc-sudo
   sudo ./install.sh
 ```
 For Cleanup
